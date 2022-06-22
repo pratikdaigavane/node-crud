@@ -9,6 +9,6 @@
   "author": "Pratik Daigavane",
   "license": "ISC",
   "dependencies": {
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.3"
   }
 }
